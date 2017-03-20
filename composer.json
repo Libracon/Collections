@@ -1,0 +1,18 @@
+{
+    "name": "libracon/collections",
+    "description": "Collection interfaces for easy exchange between libraries",
+    "license": "Apache-2",
+    "authors": [
+        {
+            "name": "Bas Hamar de la Brethonière",
+            "email": "basje@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Libracon\\Collections\\": "src/"
+        }
+    },
+    "require": {}
+}
